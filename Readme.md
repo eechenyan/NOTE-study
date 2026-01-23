@@ -13,7 +13,9 @@
 ## 更新记录
 - 2024.10.12 仓库初始化
 - （后续更新：日期 + 内容，例：2025.6.1 新增 DP 专题 3 题解）
-
+- 2025年新增leetcode刷题章节的笔记和部分笔记更新在个人的飞书文档上https://my.feishu.cn/wiki/YFPtwmYwDiBOWjkMtvpcW97wn68?from=from_copylink
+- （注：leetcode很多不全，笔记散落在飞书、力扣以及leetcode上面）
+- 2026年后续打算新增agent相关的学习笔记 日后可能会继续更新面筋
 
 ## 说明
 
